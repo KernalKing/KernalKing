@@ -6,7 +6,7 @@
 <!-- Start My Basic Information -->
 <section>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border:1px solid black; border-radius: 10px;" />
-   <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /></h1>
+   <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /></h1>
    <div>
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" height="40" />
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=28FF1100&center=true&vCenter=true&random=false&width=345&height=33&lines=I+am+KernelKing" alt="Typing SVG"   />
@@ -36,15 +36,6 @@
  <p align="center">
  <h2 align="center">Contact Me </h2>
  <h2>My Website</h2>
-  <a href="https://romjan.vercel.app/" target="_blank">
-   <img  style="padding: 10px;" align="left" alt="Romjan D. Hossain | Portfolio" width="150px" src="https://img.shields.io/badge/Romjan's-portfolio-blue" />
-  </a>
- <a href="https://romjan1412.netlify.app/" target="_blank">
-   <img  style="padding: 10px;" align="left" alt="Romjan D. Hossain | Website" width="26px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/world-wide-web.svg" />
-  </a>
-   <a href="https://romjan1412.blogspot.com/" target="_blank">
-   <img  style="padding: 10px;" align="left" alt="Romjan D. Hossain | Website" width="26px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/world-wide-web.svg" />
-  </a>
 <br>
  </section>
 

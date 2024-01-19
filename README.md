@@ -14,10 +14,7 @@
 
    <br/>
    <p>
-    🎓 I am proud to announce that I have successfully completed my Diploma in Computer Science. Congratulations to myself on this achievement!
-   </p>
-   <p>
-    Currently, I am passionately pursuing a Bachelor's degree in Computer Science and Engineering (CSE) at 🏫 <a href="https://www.bubt.edu.bd/" target="_blank"> BUBT </a>  (Bangladesh University of Business and Technology). My dedication to this field stems from my profound interest in the ever-evolving world of technology.
+    Currently, I am passionately pursuing a Bachelor's degree in Computer Science and Engineering (CSE) at 🏫 <a href="https://www.hzdr.de/" target="_blank"> BUBT </a>  (Helmholtz Zentrum Dresden Rossendorf). My dedication to this field stems from my profound interest in the ever-evolving world of technology.
    </p>
   <ul>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mechanic%20Light%20Skin%20Tone.png" alt="Mechanic Light Skin Tone" width="15" height="15" /> I’m currently working at <a href="https://www.deshifarmer.co/">Deshifarmer</a> in the Tech Team</li>
@@ -35,8 +32,6 @@
 <section>
  <p align="center">
  <h2 align="center">Contact Me </h2>
- <h2>My Website</h2>
-<br>
  </section>
 
 ## Social Media

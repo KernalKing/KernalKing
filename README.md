@@ -14,7 +14,7 @@
 
    <br/>
    <p>
-    Currently, I am passionately pursuing a Bachelor's degree in Computer Science and Engineering (CSE) at 🏫 <a href="https://www.hzdr.de/" target="_blank"> BUBT </a>  (Helmholtz Zentrum Dresden Rossendorf). My dedication to this field stems from my profound interest in the ever-evolving world of technology.
+    "I am currently an apprentice IT specialist for system integration at the" 🏫 <a href="https://www.hzdr.de/" target="_blank"> HZDR </a>  (Helmholtz Zentrum Dresden Rossendorf). My dedication to this field stems from my profound interest in the ever-evolving world of technology.
    </p>
   <ul>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mechanic%20Light%20Skin%20Tone.png" alt="Mechanic Light Skin Tone" width="15" height="15" /> I’m currently working at <a href="https://www.deshifarmer.co/">Deshifarmer</a> in the Tech Team</li>

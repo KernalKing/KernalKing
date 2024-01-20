@@ -37,19 +37,16 @@
 ## Social Media
 
 <section>
-<a href="https://linkedin.com/in/romjan-d-hossain-482a8a187" target="_blank" >
-  <img style="padding: 10px;" align="left" alt="Romjan D. Hossain | Linkedin" width="24px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/Linkedin.svg" />
-</a>
-  <a href="https://www.facebook.com/romjan1412" target="_blank">
+  <a href="" target="_blank">
    <img style="padding: 10px;" align="left" alt="Romjan D. Hossain | Facebook" width="26px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/facebook.svg" />
 </a>
-  <a href="https://twitter.com/romjan1412" target="_blank">
+  <a href="https://twitter.com/KernalKing_" target="_blank">
     <img style="padding: 10px;" align="left" alt="Romjan D. Hossain | Twitter" width="26px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/Twitter.svg" />
   </a>
-  <a href="https://www.instagram.com/romjan1412/" target="_blank">
+  <a href="" target="_blank">
     <img style="padding: 10px;" align="left" alt="Romjan D. Hossain | Instagram" width="24px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/Instagram.svg" />
   </a>
-  <a href="https://www.youtube.com/channel/UC-hbETHLvw4veoIgDuIp3SA" target="_blank">
+  <a href="" target="_blank">
    <img style="padding: 10px;" align="left" alt="D. Developer | Youtube" width="26px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/youtube.svg" />
 </a>
 

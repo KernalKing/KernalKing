@@ -90,14 +90,14 @@
   <p align="center">
   <a>
     <img height="150" width="150" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/left.webp">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RomjanHossain&theme=whatsapp-dark2&mode=weekly" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KernalKing&theme=whatsapp-dark2&mode=weekly" alt="GitHub Streak" /></a>
     <img height="150" width="150" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/right.webp">
   </a>
 </p>
 
 | My github statistics                                                                                                                                                      | Most used languages                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=RomjanHossain&show_icons=true&theme=dark&hide_title=true)](https://github.com/RomjanHossain) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomjanHossain&hide=html,css&langs_count=10&layout=compact&show_icons=true&theme=dark&hide_title=true)](https://github.com/RomjanHossain) |
+| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=KernalKing&show_icons=true&theme=dark&hide_title=true)](https://github.com/RomjanHossain) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomjanHossain&hide=html,css&langs_count=10&layout=compact&show_icons=true&theme=dark&hide_title=true)](https://github.com/RomjanHossain) |
 
 <hr>
 <!-- &layout=compact -->

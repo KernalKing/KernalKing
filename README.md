@@ -38,16 +38,16 @@
 
 <section>
   <a href="" target="_blank">
-   <img style="padding: 10px;" align="left" alt="Romjan D. Hossain | Facebook" width="26px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/facebook.svg" />
+   <img style="padding: 10px;" align="left" alt="KernalKing_ | Facebook" width="26px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/facebook.svg" />
 </a>
   <a href="https://twitter.com/KernalKing_" target="_blank">
-    <img style="padding: 10px;" align="left" alt="Romjan D. Hossain | Twitter" width="26px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/Twitter.svg" />
+    <img style="padding: 10px;" align="left" alt="KernalKing_ | Twitter" width="26px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/Twitter.svg" />
   </a>
   <a href="" target="_blank">
-    <img style="padding: 10px;" align="left" alt="Romjan D. Hossain | Instagram" width="24px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/Instagram.svg" />
+    <img style="padding: 10px;" align="left" alt="KernalKing_| Instagram" width="24px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/Instagram.svg" />
   </a>
   <a href="" target="_blank">
-   <img style="padding: 10px;" align="left" alt="D. Developer | Youtube" width="26px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/youtube.svg" />
+   <img style="padding: 10px;" align="left" alt="KernalKing_ | Youtube" width="26px" src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/youtube.svg" />
 </a>
 
 <br>

@@ -158,7 +158,7 @@
 <p align="center">
  <h2 align="center">Contribution Graph</h2>
 <p>
-<img alt="KernelKing's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=RomjanHossain&theme=github-compact" />
+<img alt="KernelKing's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KernalKing&theme=github-compact" />
 
 </p>
 <h3>✍️ Random Dev Quote</h3>

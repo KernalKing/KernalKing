@@ -97,7 +97,7 @@
 
 | My github statistics                                                                                                                                                      | Most used languages                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=KernalKing&show_icons=true&theme=dark&hide_title=true)](https://github.com/RomjanHossain) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomjanHossain&hide=html,css&langs_count=10&layout=compact&show_icons=true&theme=dark&hide_title=true)](https://github.com/RomjanHossain) |
+| [![Peace's github stats](https://github-readme-stats.vercel.app/api?username=KernalKing&show_icons=true&theme=dark&hide_title=true)](https://github.com/KernalKing) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KernalKing&hide=html,css&langs_count=10&layout=compact&show_icons=true&theme=dark&hide_title=true)](https://github.com/KernalKing) |
 
 <hr>
 <!-- &layout=compact -->

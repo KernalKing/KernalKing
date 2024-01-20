@@ -110,7 +110,7 @@
 <p>
  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,md" />
+    <img src="https://skillicons.dev/icons?i=html,css,md,c,cs,cpp" />
   </a>
   <br/>
   <a href="https://skillicons.dev">

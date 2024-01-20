@@ -79,7 +79,7 @@
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RomjanHossain&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KernalKing&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire)
 
 <hr>
 

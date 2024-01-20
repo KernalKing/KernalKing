@@ -122,7 +122,7 @@
 
 <p>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,django,fastapi,nextjs" />
+    <img src="https://skillicons.dev/icons?i=flutter,django" />
   </a>
 </p>
 
@@ -130,7 +130,7 @@
 
 <p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,heroku" />
+    <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql," />
   </a>
 </p>
 
@@ -142,7 +142,7 @@
 </a>
 <br/>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,replit" />
+    <img src="https://skillicons.dev/icons?i=git,github," />
 </a>
 <br/>
 <a href="https://skillicons.dev">

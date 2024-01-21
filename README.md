@@ -17,7 +17,7 @@
     "I am currently an apprentice IT specialist for system integration at the" 🏫 <a href="https://www.hzdr.de/" target="_blank"> HZDR </a>  (Helmholtz Zentrum Dresden Rossendorf).
    </p>
   <ul>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mechanic%20Light%20Skin%20Tone.png" alt="Mechanic Light Skin Tone" width="15" height="15" /> I’m currently working at the<a href="https://www.hzdr.de">HZDR</a> in the FKVP Team</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mechanic%20Light%20Skin%20Tone.png" alt="Mechanic Light Skin Tone" width="15" height="15" /> I’m currently working at the<a href="https://www.hzdr.de"> HZDR</a> in the FKVP Team</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Horse%20Racing.png" alt="Horse Racing" width="15" height="15" /> I’m currently learning C++ and better Flutter Practices</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Right%20Anger%20Bubble.png" alt="Right Anger Bubble" width="15" height="15" /> Ask me about <strong>C, C#, Python and topics</strong></li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="15" height="15" /> How to reach me: u dont.</li>

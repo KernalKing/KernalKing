@@ -65,7 +65,7 @@
 </div>
 <p align="center">
 <img align="" height='120px' src="https://github.com/RomjanHossain/RomjanHossain/blob/2e3a61f0ac3f3ed08293b0e7437f3256fbeff717/Geometric%20White.gif?raw=true" />
-<img align="" height='120px' src="https://raw.githubusercontent.com/RomjanHossain/RomjanHossain/master/matrix.svg" />
+<img align="" height='120px' src="https://github.com/KernalKing/KernalKing/blob/main/redmatrix.gif" />
 <img align="" height='120px' src="https://github.com/RomjanHossain/RomjanHossain/blob/2e3a61f0ac3f3ed08293b0e7437f3256fbeff717/Geometric%20White.gif?raw=true" />
 </p>
 <hr>

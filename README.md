@@ -9,7 +9,7 @@
    <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /></h1>
    <div>
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" height="40" />
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=28FF1100&center=true&vCenter=true&random=false&width=345&height=33&lines=I+am+KernelKing" alt="Typing SVG"   />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=28FF1100&center=true&vCenter=true&random=false&width=345&height=33&lines=I+am+KernalKing" alt="Typing SVG"   />
    </div>
 
    <br/>
